@@ -1,4 +1,6 @@
 # Toxic Comment Classification Challenge
+Binomial Toxic Comments Classification.
+
 
 Identify and classify toxic online comments
 
