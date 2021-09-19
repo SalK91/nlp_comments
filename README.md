@@ -1,8 +1,5 @@
 # Toxic Comment Classification Challenge
-Binomial Toxic Comments Classification.
-
-
-Identify and classify toxic online comments
+Binomial Classification - Identify and classify toxic online comments
 
 ## Data Set:
 - From Kaggle: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
